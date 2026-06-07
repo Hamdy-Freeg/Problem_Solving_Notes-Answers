@@ -1,16 +1,16 @@
 # Problem Solving & Competitive Programming Tracker
 
-[cite_start]This repository serves as a personal archive for my competitive programming journey[cite: 534]. [cite_start]It contains solutions to algorithmic problems from various platforms, along with notes on the approaches and time complexities used[cite: 535].
+This repository serves as a personal archive for my competitive programming journey. It contains solutions to algorithmic problems from various platforms, along with notes on the approaches and time complexities used.
 
 ## Platforms Tracked
 
-* [cite_start]**Codeforces:** Categorized by problem division (Div 2, Div 3, Div 4) and Gym[cite: 536].
-* [cite_start]**LeetCode:** Categorized by difficulty level (Easy, Medium, Hard)[cite: 537].
-* [cite_start]**UVa Online Judge:** Currently categorized for Training[cite: 538].
+* **Codeforces:** Categorized by problem division (Div 2, Div 3, Div 4) and Gym.
+* **LeetCode:** Categorized by difficulty level (Easy, Medium, Hard).
+* **UVa Online Judge:** Currently categorized for Training.
 
 ## Directory Structure
 
-[cite_start]To keep the repository organized and easy to navigate, the solutions are structured as follows[cite: 539]:
+To keep the repository organized and easy to navigate, the solutions are structured as follows:
 
 ```text
 problem_solving_tracker/
