@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+using ll = long long;
+
+void solve() {
+    int n;
+    cin >> n;
+    vector<long long> arr;
+    arr.push_back(0);
+    arr.push_back(1);
+    for (int i = 0; i < n; ++i) {
+        arr.push_back(arr[i] + arr[i+1]);
+    }
+    cout << arr[n -1];
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+        solve();
+
+
+    return 0;
+}
