@@ -20,8 +20,6 @@ void solve() {
         } else if (farr[x] == 1 ) {
             farr[x] = 0;
             current_on_table--;
-            max_on_table = max(max_on_table, current_on_table);
-
         }
     }
 
